@@ -1,0 +1,16 @@
+1. Start out *emphatically*
+2. And get **bolder** as the list goes on
+
+A. Here we use a letter to count
+
+a. Even lower-case letters work
+    i. One can use different counters on indented lists
+
+I) And mix up delimiters
+   with a multi-line comment
+
+   and a blank line in the middle.
+
+(D) One can even start numbering non-sequentially.
+
+

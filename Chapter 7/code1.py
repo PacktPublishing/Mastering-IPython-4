@@ -1,0 +1,5 @@
+locs, labels = xticks()
+xticks(locs, ("-10%", "-6.7%", "-3.3%", "0", "3.3%", "6.7%", "10%"))
+xlabel("Percentage change")
+ylabel("Number of Stocks")
+title("Simulated Market Performance")

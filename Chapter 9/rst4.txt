@@ -1,0 +1,4 @@
+Buy my book at Packt_.
+
+.. _Packt: https://www.packtpub.com/
+

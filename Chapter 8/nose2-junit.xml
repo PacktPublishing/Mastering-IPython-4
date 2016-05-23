@@ -1,0 +1,16 @@
+<testsuite errors="0" failures="1" name="nose2-junit" skipped="0" tests="3" time="0.258">
+  <testcase classname="" name="test_bad" time="0.093808">
+    <failure message="test failure">Traceback (most recent call last):
+  File "/nfs/02/wit0096/Packt/chap08/testrand_nose2decs_1.py", line 40, in test_bad
+    assert p &gt; 0.05
+AssertionError
+</failure>
+    <system-err />
+  </testcase>
+  <testcase classname="" name="test_better" time="0.096404">
+    <system-err />
+  </testcase>
+  <testcase classname="" name="test_builtin" time="0.066199">
+    <system-err />
+  </testcase>
+</testsuite>
