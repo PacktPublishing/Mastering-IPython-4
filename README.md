@@ -1,6 +1,6 @@
 # Mastering IPython 4.0
 
-This is the code repository for [Mastering IPython 4.0](https://www.packtpub.com/big-data-and-business-intelligence/mastering-ipython-40?utm_source=github&utm_medium=repository&utm_campaign=9781785888410), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Mastering IPython 4.0](https://www.packtpub.com/big-data-and-business-intelligence/mastering-ipython-40?utm_source=github&utm_medium=repository&utm_campaign=9781785888410), published by Packt Publishing. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Instructions
 Chapter-wise software requirements (with version):
